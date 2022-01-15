@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="movie">MOVIES</string>
+    <string name="description">Search</string>
+    <string name="description1">Movie Image</string>
+    <string name="search_text">Search Here</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_id">movie id</string>
+</resources>
